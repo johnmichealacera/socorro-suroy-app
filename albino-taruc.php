@@ -46,7 +46,7 @@
                         </div>
                         <div class="bg-white mb-3" style="padding: 30px;">
                             <div class="d-flex mb-3">
-                                <div class="text-primary text-uppercase text-decoration-none">Residents celebrating near the barangay hall during fiesta</div>
+                                <div class="text-primary text-uppercase text-decoration-none">Image above shows residents celebrating near the barangay hall</div>
                             </div>
                             <h2 class="mb-3">Overview</h2>
                             <p>Albino Taruc is a barangay in the municipality of Socorro, in the province of Surigao del Norte. Its population as determined by the 2020 Census was 3,988. This represented 15.37% of the total population of Socorro.</p>
@@ -86,18 +86,7 @@
                     <!-- Brangay Detail End -->
     
                     <!-- Notes Start-->
-                    <div class="bg-white" style="padding: 30px; margin-bottom: 30px;">
-                        <h4 class="text-uppercase mb-4" style="letter-spacing: 5px;">Notes</h4>
-                        <div class="media mb-4">
-                            <div class="media-body">
-                                <ul class="simList2col" id="adjacent-bgy-list">
-                                    <li>Data on population, and households, are from the Philippine Statistics Authority.</li>
-                                    <li>Postal code information is from the Philippine Postal Corporation.</li>
-                                    <li>Location coordinates and map is from Google maps.</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                    <?php include_once("barangay-notes.php"); ?>
                     <!-- Notes End -->
                 </div>
     
