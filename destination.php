@@ -11,7 +11,7 @@
 
     <!-- Navbar Start -->
     <?php 
-        $pageTitle = "contact";
+        $pageTitle = "destination";
         include_once("navbar.php"); 
     ?>
     <!-- Navbar End -->
