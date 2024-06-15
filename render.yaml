@@ -1,6 +1,0 @@
-services:
-  - name: php-app
-    type: web
-    env: php
-    buildCommand: composer install --no-dev
-    startCommand: php -S 0.0.0.0:8080 -t public
