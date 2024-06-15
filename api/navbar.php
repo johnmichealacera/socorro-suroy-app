@@ -25,7 +25,7 @@
                           <a href="testimonial.php" class="dropdown-item <?php echo ($pageTitle === 'testimonial') ? 'active' : ''; ?>">Testimonial</a>
                       </div>
                   </div>
-                  <a href="contact.php" class="nav-item nav-link <?php echo ($pageTitle === 'contact') ? 'active' : ''; ?>">Contact</a>
+                  <a href="contact-us.php" class="nav-item nav-link <?php echo ($pageTitle === 'contact') ? 'active' : ''; ?>">Contact</a>
               </div>
           </div>
       </nav>
