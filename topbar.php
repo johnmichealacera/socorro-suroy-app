@@ -10,7 +10,7 @@
           </div>
           <div class="col-lg-6 text-center text-lg-right">
               <div class="d-inline-flex align-items-center">
-                  <a class="text-primary px-3" href="">
+                  <a class="text-primary px-3" href="https://www.facebook.com/profile.php?id=100064660392926" target="_blank">
                       <i class="fab fa-facebook-f"></i>
                   </a>
                   <a class="text-primary px-3" href="">

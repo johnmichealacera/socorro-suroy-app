@@ -1,8 +1,8 @@
 <div class="container-fluid position-relative nav-bar p-0">
   <div class="container-lg position-relative p-0 px-lg-3" style="z-index: 9;">
       <nav class="navbar navbar-expand-lg bg-light navbar-light shadow-lg py-3 py-lg-0 pl-3 pl-lg-5">
-          <a href="" class="navbar-brand">
-              <h1 class="m-0 text-primary"><span class="text-dark">SOCOR</span>RO</h1>
+          <a href="/" class="navbar-brand">
+              <h1 class="m-0 text-primary"><span class="text-dark">SOROY SOCOR</span>RO</h1>
           </a>
           <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
               <span class="navbar-toggler-icon"></span>
@@ -12,7 +12,7 @@
               <a href="/" class="nav-item nav-link <?php echo ($pageTitle === 'home') ? 'active' : ''; ?>">Home</a>
                 <a href="about.php" class="nav-item nav-link <?php echo ($pageTitle === 'about') ? 'active' : ''; ?>">About</a>
                 <a href="service.php" class="nav-item nav-link <?php echo ($pageTitle === 'service') ? 'active' : ''; ?>">Services</a>
-                <a href="package.php" class="nav-item nav-link <?php echo ($pageTitle === 'package') ? 'active' : ''; ?>">Tour Packages</a>
+                <a href="package.php" class="nav-item nav-link <?php echo ($pageTitle === 'package') ? 'active' : ''; ?>">Tour</a>
                 <a href="barangays.php" class="nav-item nav-link <?php echo ($pageTitle === 'barangays') ? 'active' : ''; ?>">Barangays</a>
 
                   <div class="nav-item dropdown">
