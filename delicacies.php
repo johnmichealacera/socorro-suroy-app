@@ -48,7 +48,6 @@
                                     <img class="img-fluid w-100" src="img/delicacies/budbud-nilambiran.jpg" alt="">
                                     <div class="blog-date">
                                         <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -57,7 +56,7 @@
                                             <span>Budbud Nilambiran</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Derived from the Visayan root word "lambid" or "tambid," meaning "to cross one over the other," Budbud Nilambiran is a delightful kakanin that showcases the art of braiding two types of budbud (sticky rice cakes). These two varieties are intricately crossed and twisted together to form a beautiful braid. The result is a uniquely sweet and flavorful treat, where the combination of the two kinds of budbud creates a distinctive and delicious taste experience.</a>
+                                    <div class="h5 m-0 text-decoration-none">Derived from the Visayan root word "lambid" or "tambid," meaning "to cross one over the other," Budbud Nilambiran is a delightful kakanin that showcases the art of braiding two types of budbud (sticky rice cakes). These two varieties are intricately crossed and twisted together to form a beautiful braid. The result is a uniquely sweet and flavorful treat, where the combination of the two kinds of budbud creates a distinctive and delicious taste experience.</div>
                                 </div>
                             </div>
                         </div>
@@ -66,8 +65,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/harog.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">02</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -76,7 +74,7 @@
                                             <span>Harog</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Harog is a delightful dessert soup that perfectly balances tradition and flavor. This luscious dish features glutinous rice cooked in rich coconut milk, combined with slices of sabá bananas, taro, ube, sweet potatoes, and other delectable ingredients. The result is a warm, comforting treat that's both hearty and sweet. In Socorro, we even celebrate the Harog Festival, an event dedicated to this beloved delicacy, highlighting its cultural significance and bringing the community together in joyous festivity.</a>
+                                    <div class="h5 m-0 text-decoration-none">Harog is a delightful dessert soup that perfectly balances tradition and flavor. This luscious dish features glutinous rice cooked in rich coconut milk, combined with slices of sabá bananas, taro, ube, sweet potatoes, and other delectable ingredients. The result is a warm, comforting treat that's both hearty and sweet. In Socorro, we even celebrate the Harog Festival, an event dedicated to this beloved delicacy, highlighting its cultural significance and bringing the community together in joyous festivity.</div>
                                 </div>
                             </div>
                         </div>
@@ -85,8 +83,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/lidgid.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">03</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -95,7 +92,7 @@
                                             <span>Lidgid</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Lidgid is a delectable treat that captures the essence of our festive traditions. Made by wrapping grated cassava in banana leaves, this sweet delicacy is a must-have at gatherings and fiestas. The cassava is mixed with rich coconut milk and sugar, creating a creamy and delightful base. For an extra layer of indulgence, try it with a "Latik" filling – a delicious blend of caramelized coconut milk and grated coconut that turns wonderfully brown and sticky. Whether enjoyed plain or with Latik, Lidgid is sure to satisfy your sweet tooth and leave you craving more.</div>
                                 </div>
                             </div>
                         </div>
@@ -104,8 +101,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/pan-de-loli.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">04</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -114,7 +110,7 @@
                                             <span>Pan de Loli</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Pan de Loli, affectionately known as Pan de Totoy due to its unique shape, is a beloved local staple in Socorro. This soft, richly flavored bread has been satisfying the appetites of Socorronhons for generations. Not only is it delicious, but it's also affordable, making it the go-to snack for residents. Its hearty nature means that just one piece can keep you full for hours. Perfect for any time of day, Pan de Loli is a tasty and practical choice for everyone.</div>
                                 </div>
                             </div>
                         </div>
@@ -123,8 +119,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/pawa.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">05</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -133,7 +128,7 @@
                                             <span>Pawa</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Pawa is a delightful sweet treat that blends glutinous rice, ground peanuts, and muscovado sugar into a delicious bite-sized snack. Its name, derived from the Chinese word "pau" or "bao," meaning "to wrap," perfectly describes this coin-sized delicacy. With its soft, mochi-like texture when warm, Pawa hides a sweet peanut filling that surprises and delights with every bite. Perfect as a dessert or a snack, this charming treat is a favorite for its unique combination of flavors and textures.</div>
                                 </div>
                             </div>
                         </div>
@@ -142,8 +137,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/pinipig.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">06</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -152,7 +146,7 @@
                                             <span>Pinipig</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Pinipig is a versatile and delightful Filipino treat made from immature glutinous rice grains, pounded flat and toasted to perfection. These crunchy green flakes are a beloved topping for a variety of desserts, adding a unique texture and flavor. Whether enjoyed plain, mixed into drinks, or transformed into delicious cakes, Pinipig brings a delightful crunch and a touch of tradition to every bite.</div>
                                 </div>
                             </div>
                         </div>
@@ -161,8 +155,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/puto-calibre.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">07</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -171,7 +164,7 @@
                                             <span>Puto Calibre</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Puto Calibre is a unique Socorronhon steamed cassava cake that sets itself apart from traditional puto made with rice. This delightful kakanin, or rice cake, can be enjoyed on its own or as a perfect complement to savory dishes like dinuguan. Puto Calibre not only satisfies your taste buds with its rich flavor but also keeps you full for hours. It's a local favorite that's as hearty as it is delicious!</div>
                                 </div>
                             </div>
                         </div>
@@ -180,17 +173,16 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/salbaro.avif" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">08</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
                                     <div class="d-flex mb-2">
                                         <div class="text-primary text-uppercase text-decoration-none">
-                                            <span>Salbaro</span>
+                                            <span>Salvaro</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Salvaro is a beloved traditional Filipino treat, a disc-shaped wafer made from ground cassava. This thin, crispy biscuit is crafted from enriched wheat flour, shredded coconut, sugar, shortening, and sodium bicarbonate. Topped with delicious latik, Salvaro offers a crunchy, tasty, and utterly irresistible texture that will keep you coming back for more. Indulge in the delightful crunch and savor the flavors of this classic Filipino delicacy!</div>
                                 </div>
                             </div>
                         </div>
@@ -199,8 +191,7 @@
                                 <div class="position-relative">
                                     <img class="img-fluid w-100" src="img/delicacies/sayongsong.jpg" alt="">
                                     <div class="blog-date">
-                                        <h6 class="font-weight-bold mb-n1">01</h6>
-                                        <small class="text-white text-uppercase">Jan</small>
+                                        <h6 class="font-weight-bold mb-n1">09</h6>
                                     </div>
                                 </div>
                                 <div class="bg-white p-4">
@@ -209,30 +200,9 @@
                                             <span>Sayongsong</span>
                                         </div>
                                     </div>
-                                    <a class="h5 m-0 text-decoration-none" href="">Dolor justo sea kasd lorem clita justo diam amet</a>
+                                    <div class="h5 m-0 text-decoration-none">Sayongsong is a beloved delicacy from Surigao, known for its unique flavor and presentation. This traditional "kakanin" is wrapped in banana leaves and resembles the color and consistency of "puto" or rice cake. Made with glutinous rice, brown sugar, calamansi juice, roasted peanuts, and coconut milk, Sayongsong offers a delightful blend of sweet and tangy flavors. Unwrap the banana leaves to reveal this irresistible treat that captures the essence of Filipino culinary tradition.</div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-12">
-                            <nav aria-label="Page navigation">
-                                <ul class="pagination pagination-lg justify-content-center bg-white mb-0" style="padding: 30px;">
-                                  <li class="page-item disabled">
-                                    <a class="page-link" href="#" aria-label="Previous">
-                                      <span aria-hidden="true">&laquo;</span>
-                                      <span class="sr-only">Previous</span>
-                                    </a>
-                                  </li>
-                                  <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                                  <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                  <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                  <li class="page-item">
-                                    <a class="page-link" href="#" aria-label="Next">
-                                      <span aria-hidden="true">&raquo;</span>
-                                      <span class="sr-only">Next</span>
-                                    </a>
-                                  </li>
-                                </ul>
-                              </nav>
                         </div>
                     </div>
                 </div>
@@ -244,7 +214,7 @@
                         <h3 class="text-primary mb-3">John Doe</h3>
                         <p>Conset elitr erat vero dolor ipsum et diam, eos dolor lorem, ipsum sit no ut est  ipsum erat kasd amet elitr</p>
                         <div class="d-flex justify-content-center">
-                            <a class="text-primary px-2" href="">
+                            <a class="text-primary px-2">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
                             <a class="text-primary px-2" href="">
@@ -362,22 +332,7 @@
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
-
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Contact Javascript File -->
-    <script src="mail/jqBootstrapValidation.min.js"></script>
-    <script src="mail/contact.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <?php include_once("javascript.php"); ?>
 </body>
 
 </html>
