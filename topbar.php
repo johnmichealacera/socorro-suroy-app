@@ -3,9 +3,9 @@
       <div class="row">
           <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
               <div class="d-inline-flex align-items-center">
-                  <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                  <p><i class="fa fa-envelope mr-2"></i>socorro.tourismoffice@gmail.com</p>
                   <p class="text-body px-3">|</p>
-                  <p><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</p>
+                  <p><i class="fa fa-phone-alt mr-2"></i>+63910 441 3335</p>
               </div>
           </div>
           <div class="col-lg-6 text-center text-lg-right">
