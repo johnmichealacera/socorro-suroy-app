@@ -131,44 +131,8 @@
                         </div>
                     </div>
     
-                    <!-- Popular Foods -->
-                    <div class="mb-5">
-                        <h4 class="text-uppercase mb-4" style="letter-spacing: 5px;">Popular Foods</h4>
-                        <div class="d-flex align-items-center text-decoration-none bg-white mb-3">
-                            <img class="img-fluid" src="img/barangays/sumanbudbud_100X100.jpg" alt="">
-                            <div class="pl-3">
-                                <h6 class="m-1">Budbud</h6>
-                                <div class="small">Recipe made from glutinous rice flour and coconut milk and then rolled in banana leaf to be steamed.</div class="small">
-                            </div>
-                        </div>
-                        <a class="d-flex align-items-center text-decoration-none bg-white mb-3" href="">
-                            <img class="img-fluid" src="img/blog-100x100.jpg" alt="">
-                            <div class="pl-3">
-                                <h6 class="m-1">Diam lorem dolore justo eirmod lorem dolore</h6>
-                                <small>Jan 01, 2050</small>
-                            </div>
-                        </a>
-                        <a class="d-flex align-items-center text-decoration-none bg-white mb-3" href="">
-                            <img class="img-fluid" src="img/blog-100x100.jpg" alt="">
-                            <div class="pl-3">
-                                <h6 class="m-1">Diam lorem dolore justo eirmod lorem dolore</h6>
-                                <small>Jan 01, 2050</small>
-                            </div>
-                        </a>
-                    </div>
-    
-                    <!-- Tourist Spots -->
-                    <div class="mb-5">
-                        <h4 class="text-uppercase mb-4" style="letter-spacing: 5px;">Tourist Spots</h4>
-                        <div class="d-flex flex-wrap m-n1">
-                            <a href="" class="btn btn-light m-1">Design</a>
-                            <a href="" class="btn btn-light m-1">Development</a>
-                            <a href="" class="btn btn-light m-1">Marketing</a>
-                            <a href="" class="btn btn-light m-1">SEO</a>
-                            <a href="" class="btn btn-light m-1">Writing</a>
-                            <a href="" class="btn btn-light m-1">Consulting</a>
-                        </div>
-                    </div>
+                    <!-- Explore More -->
+                    <?php include_once("explore-more.php"); ?>
                 </div>
             </div>
         </div>
