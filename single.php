@@ -134,7 +134,7 @@
                                 sea at sed et eos. Accusam eirmod kasd lorem clita sanctus ut consetetur et. Et
                                 duo tempor sea kasd clita ipsum et.</p>
                             <h5 class="mb-3">Est dolor lorem et ea</h5>
-                            <img class="img-fluid w-50 float-right ml-4 mb-2" src="img/blog-3.jpg">
+                            <img class="img-fluid w-50 float-right ml-4 mb-2" src="img/tourist-spots/socorro-overlooking.jpg">
                             <p>Diam dolor est labore duo invidunt ipsum clita et, sed et lorem voluptua tempor
                                 invidunt at est sanctus sanctus. Clita dolores sit kasd diam takimata justo diam
                                 lorem sed. Magna amet sed rebum eos. Clita no magna no dolor erat diam tempor
