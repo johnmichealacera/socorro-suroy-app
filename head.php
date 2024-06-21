@@ -1,12 +1,12 @@
 <head>
     <meta charset="utf-8">
-    <title>SOROY SOCORRO</title>
+    <title>E-SOROY SOCORRO</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
-    <meta property="og:url" content="https://soroy-sa-socorro.onrender.com/">
+    <meta property="og:url" content="https://E-SOROY-sa-socorro.onrender.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Soroy sa Socorro">
+    <meta property="og:title" content="E-SOROY sa Socorro">
     <meta property="og:description" content="Explore the rich cultural delicacies, barangays and tourist spots of Socorro.">
     <meta property="og:image" content="https://live.staticflickr.com/65535/53794506071_0f0f92939b_c.jpg">
 
