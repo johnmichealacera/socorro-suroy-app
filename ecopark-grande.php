@@ -79,7 +79,7 @@
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26459.591137854208!2d125.97399237406565!3d9.660373061472422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e33f45d6e7fb%3A0xf6acd27df9dc36f!2sGarden%20Eco-Park%20Resort!5e0!3m2!1sen!2sph!4v1718527744665!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Explore Grande Ecopark in Barangay Del Pilar, your gateway to relaxation and adventure! Journey there with ease for just 80 pesos and dive into a refreshing swim in the stunning pool for an entrance fee of only 50 pesos. Looking to extend your stay? Enjoy affordable lodging rooms starting at 1500 pesos, ensuring an unforgettable overnight escape amidst nature's beauty.</p>
                     </div>
     
                     <!-- Explore More -->

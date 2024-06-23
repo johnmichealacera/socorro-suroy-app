@@ -65,7 +65,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.83362295342!2d125.90940507480657!3d9.609590479631228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x330158a8f0f82687%3A0xf77cf3f0abe36a0a!2sTiktikan%20Lagoon%20Cottages!5e0!3m2!1sen!2sph!4v1718523142722!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Tiktikan Lagoon and Resort is a year-round destination open daily to the public. Accessing this beautiful location requires a boat ride, with ample assistance available from the local tourism office and residents. Typically, the cost to reach the lagoon ranges from 500 to 1000 pesos per group. Additionally, there are lodging options such as rest houses available for rent starting from as low as 1500 pesos.</p>
                     </div>
     
                     <!-- Explore More -->

@@ -16,7 +16,7 @@
     <!-- Navbar End -->
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0">
+    <div class="container-fluid p-0 pb-5">
         <div id="header-carousel" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -63,6 +63,17 @@
         </div>
     </div>
     <!-- Carousel End -->
+
+    <!-- Header Start -->
+    <div class="container-fluid page-header py-5">
+        <div class="container">
+            <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 400px">
+                <h3 class="display-4 text-white text-uppercase">Whole Map of Socorro</h3>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125863.41631899662!2d125.8561945658465!3d9.661228383191364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e3b1411a3e55%3A0x3ee789b24f4e50dd!2sSocorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1719115759210!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
 
     <!-- Destination Start -->
     <?php include_once("tourist-destination.php"); ?>

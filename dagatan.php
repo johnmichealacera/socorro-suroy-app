@@ -65,7 +65,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.9582153117885!2d125.9251218748066!3d9.598866479808983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e1f7c090b20b%3A0xce11c76040998adb!2sDagatan%20Sifai%20Resort!5e0!3m2!1sen!2sph!4v1718528005323!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Discover Dagatan Sifai Resort, your perfect escape by the sea! Arrive by boat and enjoy affordable entrance fees of just 40 pesos for adults and 20 pesos for children. Docking fees range from 50 to 250 pesos per hour, while floating cottages await, starting at just 250 pesos up to 1000 pesos. Embrace relaxation and fun in this seaside haven!</p>
                     </div>
     
                     <!-- Explore More -->

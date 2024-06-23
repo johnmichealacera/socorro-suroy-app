@@ -64,7 +64,7 @@
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.8234928988654!2d125.96067197480663!3d9.610461879616787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e3c9b6b3a21b%3A0xd382b205dea9b75f!2sSocorro%20Swimming%20Pool!5e0!3m2!1sen!2sph!4v1718523833098!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Discover Barangay Taruc's Swimming Pool, a year-round gem accessible daily to the public. Located conveniently in the municipal area, you can reach it from the port for as little as 40 pesos. Enjoy a refreshing swim in pristine waters at no cost, but don't forget to pack snacks as there are no stores nearby. Take advantage of free cottage use—just remember to keep the area clean and respect the environment. Experience the warmth and hospitality of this serene destination firsthand!</p>
                     </div>
     
                     <!-- Explore More -->

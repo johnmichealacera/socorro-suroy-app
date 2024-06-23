@@ -79,7 +79,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15733.375554394002!2d125.91380324472512!3d9.651628851081686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e29a25effcc1%3A0xc380713f6901c294!2sPamosaingan%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718451088584!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Pamosaingan is situated at approximately 9.6495, 125.9224, in the island of Bucas Grande. Elevation at these coordinates is estimated at 14.4 meters or 47.2 feet above mean sea level.</p>
+                        <p>Pamosaingan is located on the picturesque island of Bucas Grande at coordinates 9.6495, 125.9224, with an elevation of approximately 14.4 meters (47.2 feet) above sea level. This barangay is quite far from the port and the municipality proper, so the travel fee ranges from 110 to 140 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

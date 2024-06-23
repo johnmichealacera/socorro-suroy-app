@@ -82,7 +82,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31467.694949107135!2d125.95125984392153!3d9.641518148312059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e30fd7cbeec3%3A0x73e51f5c5edd8884!2sDel%20Pilar%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718440364402!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Del Pilar is situated at approximately 9.6251, 125.9692, in the island of Bucas Grande. Elevation at these coordinates is estimated at 12.6 meters or 41.3 feet above mean sea level.</p>
+                        <p>Del Pilar is located on the beautiful island of Bucas Grande at coordinates 9.6251, 125.9692, with an elevation of approximately 12.6 meters (41.3 feet) above sea level. Traveling from the municipality's port to this charming barangay is convenient and costs only 50 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

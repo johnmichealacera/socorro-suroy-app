@@ -80,7 +80,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31469.906677818486!2d125.92686997431643!3d9.6177842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e3b68bd0dde7%3A0xd0e9ae8ef3253205!2sNavarro%20Barangay%20Hall!5e0!3m2!1sen!2sph!4v1718443318172!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Navarro is situated at approximately 9.6191, 125.9644, in the island of Bucas Grande. Elevation at these coordinates is estimated at 12.3 meters or 40.4 feet above mean sea level.</p>
+                        <p>Navarro is located on the charming island of Bucas Grande at coordinates 9.6191, 125.9644, with an elevation of approximately 12.3 meters (40.4 feet) above sea level. The port is conveniently situated in this barangay, so getting to the market or barangay hall costs only 10 to 20 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

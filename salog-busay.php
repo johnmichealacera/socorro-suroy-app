@@ -64,7 +64,7 @@
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37414.2866298854!2d125.91779418215425!3d9.707269295105867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303fd0bdfaa4b73%3A0xb80c695d6a68954d!2sSalog%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718526060022!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Discover Salog Busay, where tranquility meets nature's grandeur! For approximately 160 pesos from the port, unwind amidst majestic waterfalls and pristine landscapes. Don't forget to pack your own snacks as there are no stores nearby—just pure relaxation and breathtaking natural beauty awaits!</p>
                     </div>
     
                     <!-- Explore More -->

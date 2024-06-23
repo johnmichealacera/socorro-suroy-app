@@ -65,7 +65,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62934.64001951058!2d125.84503089796861!3d9.64553586880121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e284fb997eab%3A0xe699892e959dabdc!2sPamosaingan%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718527072226!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Explore Magkahuyog Falls, where nature's serenity awaits! Journey from the port for approximately 130 pesos and immerse yourself in the beauty of cascading waterfalls and untouched landscapes. Remember to bring your own snacks, as there are no stores nearby. Experience pure relaxation amidst the tranquil surroundings and breathtaking natural splendor!</p>
                     </div>
     
                     <!-- Explore More -->

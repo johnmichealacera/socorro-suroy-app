@@ -82,7 +82,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31469.037370974507!2d125.91100879391293!3d9.627119600995494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e268ad449231%3A0xf9a09002eb92a673!2sNueva%20Estrella%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718450483328!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Nueva Estrella is situated at approximately 9.6291, 125.9364, in the island of Bucas Grande. Elevation at these coordinates is estimated at 58.5 meters or 191.9 feet above mean sea level.</p>
+                        <p>Nueva Estrella is located on the beautiful island of Bucas Grande at coordinates 9.6291, 125.9364, with an elevation of approximately 58.5 meters (191.9 feet) above sea level. Due to its distance from the municipality proper, traveling to this barangay costs 80 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

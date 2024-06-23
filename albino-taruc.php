@@ -94,7 +94,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.802460307302!2d125.96261877480678!3d9.612270879586694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e39a4ff2b113%3A0xf0e03c72a32f6d67!2sBarangay%20Hall%20Of%20Don.%20Albino%20Taruc!5e0!3m2!1sen!2sph!4v1718431608967!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Albino Taruc is situated at approximately 9.6146, 125.9650, in the island of Bucas Grande. Elevation at these coordinates is estimated at 10.0 meters or 32.8 feet above mean sea level.</p>
+                        <p>Nestled on the picturesque island of Bucas Grande, Albino Taruc sits at coordinates 9.6146, 125.9650, with an elevation of about 10 meters (32.8 feet) above sea level. Getting there from the municipality's port is easy and affordable—just hop on a tricycle or motorcycle to the barangay for a mere 30 pesos.</p>
                     </div>
 
                     <!-- Officials List -->

@@ -65,7 +65,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.9511435880863!2d125.91393697480662!3d9.59947547979884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e1fb7f4a485b%3A0x5b425b9f99abd0ec!2sSohoton%20Cove!5e0!3m2!1sen!2sph!4v1718525537594!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Enjoy a scenic pumpboat ride from Hayanggabon port, inclusive of entrance fees, life vests, and the services of a knowledgeable tour guide. Some services offer 8 to 12 person for only Php 1,700. Explore breathtaking spots like Sohoton Cove, Hagukan Cove, Jellyfish Sanctuary, Crystal Cave, Tundan Cave, and Bulitas Cave. Book your adventure today and immerse yourself in the natural beauty of Sohoton!</p>
                     </div>
     
                     <!-- Explore More -->

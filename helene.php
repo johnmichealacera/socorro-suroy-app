@@ -78,7 +78,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9357.422853673117!2d125.93094857314091!3d9.568379157084484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e115b17f1a23%3A0xba23a3cb1936e64f!2sBrgy.%20Do%C3%B1a%20Helene%2C%20Socorro%2C%20SDN!5e0!3m2!1sen!2sph!4v1718441527362!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>Helene is situated at approximately 9.5682, 125.9396, in the island of Bucas Grande. Elevation at these coordinates is estimated at 10.2 meters or 33.5 feet above mean sea level.</p>
+                      <p>Helene is located on the enchanting island of Bucas Grande at coordinates 9.5682, 125.9396, with an elevation of approximately 10.2 meters (33.5 feet) above sea level. Traveling from the municipality's port to this lovely barangay is convenient, with a tricycle or motorcycle ride costing only 60 pesos.</p>
                     </div>
 
                     <!-- Officials List -->

@@ -80,7 +80,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11126.817803209797!2d125.94967091724938!3d9.601798818348767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e22cc1d0da63%3A0x64976fb69ec35086!2sRizal%20(Pob.)%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718452034327!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Rizal is situated at approximately 9.6217, 125.9657, in the island of Bucas Grande. Elevation at these coordinates is estimated at 17.7 meters or 58.1 feet above mean sea level.</p>
+                        <p>Rizal is located on the scenic island of Bucas Grande at coordinates 9.6217, 125.9657, with an elevation of approximately 17.7 meters (58.1 feet) above sea level. This barangay is one of those situated at the municipal proper, so getting here from the port costs only 30 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

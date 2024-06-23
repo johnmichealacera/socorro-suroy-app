@@ -79,7 +79,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62923.05688263758!2d125.90108610465604!3d9.707387092214388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303fd0bdfaa4b73%3A0xb80c695d6a68954d!2sSalog%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718454422759!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Salog is situated at approximately 9.7073, 125.9411, in the island of Bucas Grande. Elevation at these coordinates is estimated at 73.9 meters or 242.5 feet above mean sea level.</p>
+                        <p>Salog is located on the beautiful island of Bucas Grande at coordinates 9.7073, 125.9411, with an elevation of approximately 73.9 meters (242.5 feet) above sea level. This barangay is a bit far from the municipal proper, so the travel fee is about 100 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

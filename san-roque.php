@@ -81,7 +81,7 @@
                     <!-- Barangay Bio -->
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31473.273722085036!2d125.90456084388596!3d9.581540809473351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e1dd58bf8ccb%3A0xb5e21b467e99e128!2sSan%20Roque%2C%20Socorro%2C%20Surigao%20del%20Norte!5e0!3m2!1sen!2sph!4v1718454995609!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>San Roque is situated at approximately 9.6250, 125.9206, in the island of Bucas Grande. Elevation at these coordinates is estimated at 17.5 meters or 57.4 feet above mean sea level.</p>
+                        <p>San Roque is located on the island of Bucas Grande at coordinates 9.6250, 125.9206, with an elevation of approximately 17.5 meters (57.4 feet) above sea level. This barangay is situated a distance from the port, and the travel fee to get there is approximately 80 pesos by tricycle or motorcycle.</p>
                     </div>
 
                     <!-- Officials List -->

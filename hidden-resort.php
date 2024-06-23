@@ -64,7 +64,7 @@
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.2580843359324!2d125.92998767789642!3d9.573007155795626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e1c707fd9e81%3A0x86c5d97dd036cd20!2sHidden%20Island%20Resort!5e0!3m2!1sen!2sph!4v1718527478795!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Discover Hidden Island Resort in Helene where bliss awaits! Embark on a journey for just 70 pesos from the port and indulge in pure relaxation. Stay in cozy rooms starting at 2,750 per person for a delightful 2-day, 1-night retreat including entrance fees, Sohoton tour, and more. Unwind in paradise and make memories that last a lifetime!</p>
                     </div>
     
                     <!-- Explore More -->

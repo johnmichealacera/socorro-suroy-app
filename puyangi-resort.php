@@ -64,7 +64,7 @@
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="d-flex flex-column text-center bg-white mb-5 py-5 px-4">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3933.9243924283824!2d125.96430787480654!3d9.601778879760733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3303e3ee42113563%3A0x6a0eecf9efd30440!2sPuyangi%20Beach%20Paradise!5e0!3m2!1sen!2sph!4v1718524445018!5m2!1sen!2sph" class="img-fluid mx-auto mb-3" style="border:0; height: 450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                      <p>This is an all-year-round destination that is open to the public daily.</p>
+                      <p>Explore Puyangi Beach, nestled near the municipal center and open year-round for visitors. Accessible from the port for just 50 pesos, it's an affordable getaway for all. Enjoy the sun and sand at your leisure, making it an ideal spot for relaxation and recreation.</p>
                     </div>
     
                     <!-- Explore More -->
