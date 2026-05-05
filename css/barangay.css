@@ -341,3 +341,25 @@
         transform: none;
     }
 }
+
+/* ---------- Home hero carousel (index only) — caps height so the fold isn’t only hero ---------- */
+#header-carousel .carousel-inner {
+    max-height: min(68vh, 560px);
+}
+
+#header-carousel .carousel-item img {
+    width: 100%;
+    height: min(68vh, 560px);
+    object-fit: cover;
+    object-position: center;
+}
+
+@media (max-width: 767.98px) {
+    #header-carousel .carousel-inner {
+        max-height: min(50vh, 380px);
+    }
+
+    #header-carousel .carousel-item img {
+        height: min(50vh, 380px);
+    }
+}

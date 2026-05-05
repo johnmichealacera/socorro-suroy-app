@@ -17,7 +17,7 @@
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5">
-        <div id="header-carousel" class="carousel slide" data-ride="carousel">
+        <div id="header-carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="w-100" src="img/tourist-spots/bucas-grande-overlooking.jpg" alt="Image">
