@@ -37,13 +37,13 @@ socorro-suroy-app/
 │   ├── contact-us.php                     # POST handler for the contact form
 │   └── contact.js                         # AJAX + validation wiring
 ├── css/style.css                          # Compiled Bootstrap + theme (from scss/)
-├── css/barangay.css                       # Barangay detail page styling (body.barangay-page)
+├── css/barangay.css                       # Enhanced layouts: barangays, spots, delicacies (body classes)
 ├── scss/style.scss                      # Source theme ($primary, imports Bootstrap SCSS)
 ├── js/main.js                           # Carousel, back-to-top, pickers, Owl
 └── img/                                 # Photography and assets
 ```
 
-**Design choice:** Barangay detail styling lives in `css/barangay.css` (loaded globally but scoped to `body.barangay-page`) so the **compiled `css/style.css`** stays the Bootstrap theme source until you recompile SCSS.
+**Design choice:** Section-specific polish lives in `css/barangay.css`, scoped with body classes (`barangay-page`, `spot-detail-page`, `page-delicacies`, directory listings) so **`css/style.css`** stays the Bootstrap theme source until you recompile SCSS.
 
 ---
 

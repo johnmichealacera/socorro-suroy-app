@@ -3,7 +3,7 @@
 
 <?php include_once('head.php'); ?>
 
-<body>
+<body class="page-tourist-spots-directory">
     <!-- Topbar Start -->
     <?php include_once("topbar.php"); ?>
     <!-- Topbar End -->

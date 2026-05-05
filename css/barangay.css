@@ -1,60 +1,110 @@
 /**
- * Barangay detail pages — scoped with body.barangay-page.
- * Complements Bootstrap 4 / style.css without replacing structure.
+ * Enhanced layouts: barangay detail, tourist spot detail, delicacies page,
+ * and directory listings (barangays / tourist spots).
+ * Scoped with body classes; complements Bootstrap 4 / style.css.
  */
 
-.barangay-page {
-    --bgy-accent: #7ab730;
-    --bgy-accent-soft: rgba(122, 183, 48, 0.12);
-    --bgy-card-shadow: 0 12px 40px rgba(33, 33, 33, 0.07);
-    --bgy-radius: 10px;
+:root {
+    --page-accent: #7ab730;
+    --page-accent-soft: rgba(122, 183, 48, 0.12);
+    --page-card-shadow: 0 12px 40px rgba(33, 33, 33, 0.07);
+    --page-radius: 10px;
 }
 
-/* Hero image card */
-.barangay-page .blog-item {
-    border-radius: var(--bgy-radius);
+/* ---------- Detail pages: hero card (barangay + spot + delicacies cards) ---------- */
+
+.barangay-page .blog-item,
+.spot-detail-page .blog-item,
+.page-delicacies .blog-item {
+    border-radius: var(--page-radius);
     overflow: hidden;
-    box-shadow: var(--bgy-card-shadow);
+    box-shadow: var(--page-card-shadow);
     background: #fff;
 }
 
-.barangay-page .blog-item .position-relative img {
-    border-radius: var(--bgy-radius) var(--bgy-radius) 0 0;
+.barangay-page .blog-item .position-relative img,
+.spot-detail-page .blog-item .position-relative img,
+.page-delicacies .blog-item .position-relative img {
+    border-radius: var(--page-radius) var(--page-radius) 0 0;
 }
 
-/* Eyebrow / highlight line under hero */
-.barangay-page .bg-white.mb-3 > .d-flex.mb-3:first-of-type .text-primary {
+/* Eyebrow — article panel (barangay & spot) */
+.barangay-page .bg-white.mb-3 > .d-flex.mb-3:first-of-type .text-primary,
+.spot-detail-page .bg-white.mb-3 > .d-flex.mb-3:first-of-type .text-primary {
     font-size: 0.8rem;
     letter-spacing: 0.12em;
     font-weight: 600;
     display: inline-block;
     padding: 0.35rem 0.75rem;
-    background: var(--bgy-accent-soft);
+    background: var(--page-accent-soft);
     border-radius: 4px;
     color: #5a8525 !important;
 }
 
-/* Main content panels */
-.barangay-page .bg-white.mb-3 {
-    border-radius: var(--bgy-radius);
-    box-shadow: var(--bgy-card-shadow);
+/* Eyebrow — delicacies grid cards */
+.page-delicacies .blog-item .bg-white.p-4 > .d-flex.mb-2:first-of-type .text-primary span {
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    background: var(--page-accent-soft);
+    border-radius: 4px;
+    color: #5a8525 !important;
+}
+
+/* Main article panel */
+.barangay-page .bg-white.mb-3,
+.spot-detail-page .bg-white.mb-3 {
+    border-radius: var(--page-radius);
+    box-shadow: var(--page-card-shadow);
     border: 1px solid rgba(0, 0, 0, 0.04);
 }
 
-.barangay-page .bg-white.mb-3 h2 {
+.barangay-page .bg-white.mb-3 h2,
+.spot-detail-page .bg-white.mb-3 h2 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
-    border-bottom: 2px solid var(--bgy-accent-soft);
+    border-bottom: 2px solid var(--page-accent-soft);
 }
 
 .barangay-page .bg-white.mb-3 h4,
-.barangay-page .bg-white.mb-3 h5 {
+.barangay-page .bg-white.mb-3 h5,
+.spot-detail-page .bg-white.mb-3 h4,
+.spot-detail-page .bg-white.mb-3 h5 {
     margin-top: 1.25rem;
     color: #2c2c2c;
 }
 
-/* Census table */
+/* Delicacies — intro heading */
+.page-delicacies .col-lg-8 > h2.mb-3 {
+    font-size: 1.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--page-accent-soft);
+    margin-bottom: 1.25rem !important;
+}
+
+/* Delicacies — inner card body under image */
+.page-delicacies .blog-item .bg-white.p-4 {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.page-delicacies .blog-item .bg-white.p-4 .h5 {
+    font-size: 1rem !important;
+    line-height: 1.65;
+    font-weight: 400 !important;
+    color: #444;
+}
+
+/* Delicacies — date ribbon */
+.page-delicacies .blog-date {
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* ---------- Barangay-only: census & lists ---------- */
+
 .barangay-page .tableWrap {
     overflow-x: auto;
     margin: 1.25rem 0;
@@ -75,7 +125,7 @@
     font-weight: 600;
     font-size: 0.8rem;
     text-align: left;
-    background: var(--bgy-accent-soft);
+    background: var(--page-accent-soft);
     color: #333;
 }
 
@@ -98,16 +148,19 @@
     background: rgba(0, 0, 0, 0.02);
 }
 
-/* Inline article images */
 .barangay-page .bg-white.mb-3 img.img-fluid.float-left,
-.barangay-page .bg-white.mb-3 img.img-fluid.float-right {
+.barangay-page .bg-white.mb-3 img.img-fluid.float-right,
+.spot-detail-page .bg-white.mb-3 img.img-fluid.float-left,
+.spot-detail-page .bg-white.mb-3 img.img-fluid.float-right {
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
 
 @media (max-width: 767.98px) {
     .barangay-page .bg-white.mb-3 img.img-fluid.float-left,
-    .barangay-page .bg-white.mb-3 img.img-fluid.float-right {
+    .barangay-page .bg-white.mb-3 img.img-fluid.float-right,
+    .spot-detail-page .bg-white.mb-3 img.img-fluid.float-left,
+    .spot-detail-page .bg-white.mb-3 img.img-fluid.float-right {
         float: none !important;
         display: block;
         width: 100% !important;
@@ -116,7 +169,6 @@
     }
 }
 
-/* Adjacent barangays */
 .barangay-page ul.simList2col {
     list-style: none;
     padding-left: 0;
@@ -136,19 +188,23 @@
 
 .barangay-page ul.simList2col li a:hover {
     color: #5a8525 !important;
-    border-bottom-color: var(--bgy-accent);
+    border-bottom-color: var(--page-accent);
     text-decoration: none;
 }
 
-/* Sidebar: map card */
-.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white {
-    border-radius: var(--bgy-radius);
-    box-shadow: var(--bgy-card-shadow);
+/* ---------- Sidebar: map / quote + explore (barangay + spot + delicacies) ---------- */
+
+.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white,
+.spot-detail-page .col-lg-4 .d-flex.flex-column.text-center.bg-white,
+.page-delicacies .col-lg-4 .d-flex.flex-column.text-center.bg-white {
+    border-radius: var(--page-radius);
+    box-shadow: var(--page-card-shadow);
     padding: 1.5rem !important;
     border: 1px solid rgba(0, 0, 0, 0.04);
 }
 
-.barangay-page .col-lg-4 iframe[src*="google.com/maps"] {
+.barangay-page .col-lg-4 iframe[src*="google.com/maps"],
+.spot-detail-page .col-lg-4 iframe[src*="google.com/maps"] {
     border-radius: 8px !important;
     width: 100% !important;
     max-width: 100%;
@@ -156,14 +212,16 @@
     margin-bottom: 1rem !important;
 }
 
-.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white p {
+.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white p,
+.spot-detail-page .col-lg-4 .d-flex.flex-column.text-center.bg-white p,
+.page-delicacies .col-lg-4 .d-flex.flex-column.text-center.bg-white p {
     text-align: left !important;
     font-size: 0.95rem;
     line-height: 1.65;
     color: #555;
 }
 
-/* Officials section heading */
+/* Officials (barangay only) */
 .barangay-page .col-lg-4 > .mb-5 > h4.text-uppercase {
     font-size: 0.8rem;
     letter-spacing: 0.15em;
@@ -198,23 +256,27 @@
 }
 
 /* Explore more chips */
-.barangay-page .col-lg-4 .btn-light {
+.barangay-page .col-lg-4 .btn-light,
+.spot-detail-page .col-lg-4 .btn-light,
+.page-delicacies .col-lg-4 .btn-light {
     border-radius: 50rem;
     border: 1px solid rgba(122, 183, 48, 0.35);
     font-weight: 500;
     transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 
-.barangay-page .col-lg-4 .btn-light:hover {
-    background: var(--bgy-accent);
+.barangay-page .col-lg-4 .btn-light:hover,
+.spot-detail-page .col-lg-4 .btn-light:hover,
+.page-delicacies .col-lg-4 .btn-light:hover {
+    background: var(--page-accent);
     color: #fff !important;
-    border-color: var(--bgy-accent);
+    border-color: var(--page-accent);
 }
 
-/* Notes block (barangay-notes.php) */
+/* Notes block (barangay only) */
 .barangay-page .barangay-notes-panel {
-    border-radius: var(--bgy-radius);
-    box-shadow: var(--bgy-card-shadow);
+    border-radius: var(--page-radius);
+    box-shadow: var(--page-card-shadow);
     border: 1px solid rgba(0, 0, 0, 0.04);
 }
 
@@ -224,7 +286,19 @@
     position: relative;
 }
 
-/* Barangay listing grid (barangays.php) */
+.barangay-page .bg-white .media ul.simList2col li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55rem;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--page-accent);
+}
+
+/* ---------- Directory grids ---------- */
+
 .page-barangays-directory .service-item {
     border-radius: 10px;
     border: 1px solid rgba(0, 0, 0, 0.04);
@@ -242,22 +316,28 @@
 }
 
 .page-barangays-directory .service-item i.fa {
-    color: #7ab730;
+    color: var(--page-accent);
+}
+
+.page-tourist-spots-directory .destination-item {
+    border-radius: var(--page-radius);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    overflow: hidden;
+}
+
+.page-tourist-spots-directory .destination-item:hover {
+    box-shadow: 0 12px 36px rgba(33, 33, 33, 0.1);
+    transform: translateY(-3px);
+}
+
+.page-tourist-spots-directory .destination-item img {
+    border-radius: var(--page-radius) var(--page-radius) 0 0;
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .page-barangays-directory .service-item:hover {
+    .page-barangays-directory .service-item:hover,
+    .page-tourist-spots-directory .destination-item:hover {
         transform: none;
     }
-}
-
-.barangay-page .bg-white .media ul.simList2col li::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.55rem;
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    background: var(--bgy-accent);
 }

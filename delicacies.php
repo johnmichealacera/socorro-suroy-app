@@ -3,7 +3,7 @@
 
 <?php include_once('head.php'); ?>
 
-<body>
+<body class="page-delicacies">
     <!-- Topbar Start -->
     <?php include_once("topbar.php"); ?>
     <!-- Topbar End -->
