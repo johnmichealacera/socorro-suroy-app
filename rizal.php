@@ -3,7 +3,7 @@
 
 <?php include_once('head.php'); ?>
 
-<body>
+<body class="barangay-page">
     <!-- Topbar Start -->
     <?php include_once('topbar.php'); ?>
     <!-- Topbar End -->

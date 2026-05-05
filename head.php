@@ -1,30 +1,21 @@
-<?php
-$site = require __DIR__ . '/inc/site-config.php';
-$siteUrl = htmlspecialchars($site['site_url'] ?? 'https://soroy-sa-socorro.vercel.app', ENT_QUOTES, 'UTF-8');
-$siteName = htmlspecialchars($site['site_name'] ?? 'E-SUROY Socorro', ENT_QUOTES, 'UTF-8');
-$description = htmlspecialchars($site['description'] ?? '', ENT_QUOTES, 'UTF-8');
-$ogImage = htmlspecialchars($site['og_image'] ?? '', ENT_QUOTES, 'UTF-8');
-?>
 <head>
     <meta charset="utf-8">
-    <title><?php echo $siteName; ?> — Socorro Island Tourism</title>
+    <title>E-SUROY SOCORRO</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="<?php echo $description; ?>">
-    <meta name="theme-color" content="#5a9a28">
-    <meta property="og:url" content="<?php echo $siteUrl; ?>/">
+    <meta name="description" content="Tourist spots, delicacies, and barangays of Socorro, Surigao del Norte — Bucas Grande, Philippines.">
+    <meta name="keywords" content="Socorro, Bucas Grande, Surigao del Norte, tourism, Philippines">
+    <meta property="og:url" content="https://soroy-sa-socorro.vercel.app/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="<?php echo $siteName; ?>">
-    <meta property="og:description" content="<?php echo $description; ?>">
-    <meta property="og:image" content="<?php echo $ogImage; ?>">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="E-SUROY sa Socorro">
+    <meta property="og:description" content="Explore the cultural delicacies, barangays, and tourist spots of Socorro.">
+    <meta property="og:image" content="https://live.staticflickr.com/65535/53794506071_0f0f92939b_c.jpg">
 
     <!-- Favicon -->
     <link href="img/socorro-logo.png" rel="icon">
     <link rel="icon" href="/favicon.png" type="image/png">
 
     <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Font Awesome -->
@@ -36,5 +27,5 @@ $ogImage = htmlspecialchars($site['og_image'] ?? '', ENT_QUOTES, 'UTF-8');
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/portfolio-polish.css" rel="stylesheet">
+    <link href="css/barangay.css" rel="stylesheet">
 </head>

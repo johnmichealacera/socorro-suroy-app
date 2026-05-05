@@ -1,0 +1,263 @@
+/**
+ * Barangay detail pages — scoped with body.barangay-page.
+ * Complements Bootstrap 4 / style.css without replacing structure.
+ */
+
+.barangay-page {
+    --bgy-accent: #7ab730;
+    --bgy-accent-soft: rgba(122, 183, 48, 0.12);
+    --bgy-card-shadow: 0 12px 40px rgba(33, 33, 33, 0.07);
+    --bgy-radius: 10px;
+}
+
+/* Hero image card */
+.barangay-page .blog-item {
+    border-radius: var(--bgy-radius);
+    overflow: hidden;
+    box-shadow: var(--bgy-card-shadow);
+    background: #fff;
+}
+
+.barangay-page .blog-item .position-relative img {
+    border-radius: var(--bgy-radius) var(--bgy-radius) 0 0;
+}
+
+/* Eyebrow / highlight line under hero */
+.barangay-page .bg-white.mb-3 > .d-flex.mb-3:first-of-type .text-primary {
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    background: var(--bgy-accent-soft);
+    border-radius: 4px;
+    color: #5a8525 !important;
+}
+
+/* Main content panels */
+.barangay-page .bg-white.mb-3 {
+    border-radius: var(--bgy-radius);
+    box-shadow: var(--bgy-card-shadow);
+    border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.barangay-page .bg-white.mb-3 h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--bgy-accent-soft);
+}
+
+.barangay-page .bg-white.mb-3 h4,
+.barangay-page .bg-white.mb-3 h5 {
+    margin-top: 1.25rem;
+    color: #2c2c2c;
+}
+
+/* Census table */
+.barangay-page .tableWrap {
+    overflow-x: auto;
+    margin: 1.25rem 0;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.barangay-page .chart-table {
+    width: 100%;
+    margin-bottom: 0;
+    font-size: 0.875rem;
+    border-collapse: collapse;
+}
+
+.barangay-page .chart-table caption {
+    caption-side: top;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-align: left;
+    background: var(--bgy-accent-soft);
+    color: #333;
+}
+
+.barangay-page .chart-table thead th {
+    background: #f4f6f2;
+    font-weight: 600;
+    padding: 0.65rem 0.75rem;
+    border-bottom: 2px solid rgba(122, 183, 48, 0.35);
+    white-space: nowrap;
+}
+
+.barangay-page .chart-table tbody td,
+.barangay-page .chart-table tbody th {
+    padding: 0.55rem 0.75rem;
+    vertical-align: middle;
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.barangay-page .chart-table tbody tr:nth-child(even) {
+    background: rgba(0, 0, 0, 0.02);
+}
+
+/* Inline article images */
+.barangay-page .bg-white.mb-3 img.img-fluid.float-left,
+.barangay-page .bg-white.mb-3 img.img-fluid.float-right {
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 767.98px) {
+    .barangay-page .bg-white.mb-3 img.img-fluid.float-left,
+    .barangay-page .bg-white.mb-3 img.img-fluid.float-right {
+        float: none !important;
+        display: block;
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
+
+/* Adjacent barangays */
+.barangay-page ul.simList2col {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.barangay-page ul.simList2col li {
+    margin-bottom: 0.5rem;
+}
+
+.barangay-page ul.simList2col li a {
+    display: inline-block;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.barangay-page ul.simList2col li a:hover {
+    color: #5a8525 !important;
+    border-bottom-color: var(--bgy-accent);
+    text-decoration: none;
+}
+
+/* Sidebar: map card */
+.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white {
+    border-radius: var(--bgy-radius);
+    box-shadow: var(--bgy-card-shadow);
+    padding: 1.5rem !important;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.barangay-page .col-lg-4 iframe[src*="google.com/maps"] {
+    border-radius: 8px !important;
+    width: 100% !important;
+    max-width: 100%;
+    height: 260px !important;
+    margin-bottom: 1rem !important;
+}
+
+.barangay-page .col-lg-4 .d-flex.flex-column.text-center.bg-white p {
+    text-align: left !important;
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: #555;
+}
+
+/* Officials section heading */
+.barangay-page .col-lg-4 > .mb-5 > h4.text-uppercase {
+    font-size: 0.8rem;
+    letter-spacing: 0.15em;
+    color: #333;
+    margin-bottom: 1rem !important;
+}
+
+.barangay-page .col-lg-4 .bg-white ul.list-inline {
+    padding: 0;
+    border-radius: 8px;
+}
+
+.barangay-page .col-lg-4 .bg-white ul.list-inline li {
+    padding: 0.65rem 0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+
+.barangay-page .col-lg-4 .bg-white ul.list-inline li:last-child {
+    border-bottom: 0;
+}
+
+.barangay-page .col-lg-4 .badge {
+    font-weight: 600;
+    font-size: 0.75rem;
+    white-space: normal;
+    text-align: right;
+    line-height: 1.35;
+    max-width: 58%;
+    padding: 0.45em 0.75em;
+}
+
+/* Explore more chips */
+.barangay-page .col-lg-4 .btn-light {
+    border-radius: 50rem;
+    border: 1px solid rgba(122, 183, 48, 0.35);
+    font-weight: 500;
+    transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.barangay-page .col-lg-4 .btn-light:hover {
+    background: var(--bgy-accent);
+    color: #fff !important;
+    border-color: var(--bgy-accent);
+}
+
+/* Notes block (barangay-notes.php) */
+.barangay-page .barangay-notes-panel {
+    border-radius: var(--bgy-radius);
+    box-shadow: var(--bgy-card-shadow);
+    border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.barangay-page .bg-white .media ul.simList2col li {
+    margin-bottom: 0.35rem;
+    padding-left: 1rem;
+    position: relative;
+}
+
+/* Barangay listing grid (barangays.php) */
+.page-barangays-directory .service-item {
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.page-barangays-directory .service-item:hover {
+    box-shadow: 0 12px 32px rgba(33, 33, 33, 0.08);
+    transform: translateY(-2px);
+}
+
+.page-barangays-directory .service-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.page-barangays-directory .service-item i.fa {
+    color: #7ab730;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .page-barangays-directory .service-item:hover {
+        transform: none;
+    }
+}
+
+.barangay-page .bg-white .media ul.simList2col li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55rem;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--bgy-accent);
+}

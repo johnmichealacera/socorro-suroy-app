@@ -37,13 +37,13 @@ socorro-suroy-app/
 │   ├── contact-us.php                     # POST handler for the contact form
 │   └── contact.js                         # AJAX + validation wiring
 ├── css/style.css                          # Compiled Bootstrap + theme (from scss/)
-├── css/portfolio-polish.css               # Incremental polish layer (non-invasive)
+├── css/barangay.css                       # Barangay detail page styling (body.barangay-page)
 ├── scss/style.scss                      # Source theme ($primary, imports Bootstrap SCSS)
 ├── js/main.js                           # Carousel, back-to-top, pickers, Owl
 └── img/                                 # Photography and assets
 ```
 
-**Design choice:** New styling and behavior are layered (`portfolio-polish.css`, tighter nav/footer) instead of regenerating the full Bootstrap build, so the **existing compiled `css/style.css` stays the source of truth** until you choose to recompile SCSS.
+**Design choice:** Barangay detail styling lives in `css/barangay.css` (loaded globally but scoped to `body.barangay-page`) so the **compiled `css/style.css`** stays the Bootstrap theme source until you recompile SCSS.
 
 ---
 
