@@ -1,0 +1,9 @@
+<?php
+/**
+ * Copy this file to `site-config.local.php` in the project root to override
+ * defaults for local development (never commit `site-config.local.php`).
+ */
+return [
+    'site_url' => 'http://localhost:8080',
+    'contact_form_to' => 'your-email@example.com',
+];

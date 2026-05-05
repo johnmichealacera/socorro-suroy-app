@@ -12,10 +12,11 @@ $(function () {
             var message = $("textarea#message").val();
 
             $this = $("#sendMessageButton");
-            $this.prop("disabled", true);
+            var originalBtnText = $this.text();
+            $this.prop("disabled", true).text("Sending…");
 
             $.ajax({
-                url: "contact-us.php",
+                url: "mail/contact-us.php",
                 type: "POST",
                 data: {
                     name: name,
@@ -44,7 +45,7 @@ $(function () {
                 },
                 complete: function () {
                     setTimeout(function () {
-                        $this.prop("disabled", false);
+                        $this.prop("disabled", false).text(originalBtnText);
                     }, 1000);
                 }
             });

@@ -13,3 +13,9 @@
 
 <!-- Template Javascript -->
 <script src="js/main.js"></script>
+<script>
+(function () {
+  var el = document.getElementById('footer-year');
+  if (el) el.textContent = new Date().getFullYear();
+})();
+</script>
